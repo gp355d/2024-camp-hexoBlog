@@ -14,7 +14,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
-root: /2024-camp-hexo/
+root: /2024-camp-hexoBlog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,7 +103,7 @@ theme: NEXT
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/gp355d/2024-camp-hexo
+  repo: https://github.com/gp355d/2024-camp-hexoBlog
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
   # 空間要放在哪個分支上面
