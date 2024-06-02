@@ -1100,7 +1100,8 @@ pre code {
 }
 .site-subtitle {
   color: #ddd;
-  font-size: 0.8125em;
+  /* font-size: 0.8125em; */
+  font-size: 16px;
   margin: 10px 10px 0;
 }
 .use-motion .site-title,
@@ -1305,6 +1306,7 @@ pre code {
 .site-description {
   color: #999;
   font-size: 0.8125em;
+  font-size: 16px;
   margin-top: 0;
 }
 .links-of-author a {
